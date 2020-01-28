@@ -1,5 +1,6 @@
 package io.pivotal.pal.tracker;
 
+import com.fasterxml.jackson.databind.annotation.JsonAppend;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
